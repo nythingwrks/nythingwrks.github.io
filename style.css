@@ -104,10 +104,13 @@ body {
   max-width:800px;
   margin:25px auto;
 }
-header, #content, footer { 
+header{background: rgba(0,0,0,.8); 
+100  padding:25px;
+101  color:#d97400;}
+#content, footer { 
   background: rgba(0,0,0,.8); 
   padding:25px;
-  color:#d97400; 
+  color:#FFFFFF; 
 }
 iframe {
   max-width:100%;
